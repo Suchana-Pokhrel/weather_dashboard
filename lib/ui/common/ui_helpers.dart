@@ -6,7 +6,7 @@ const double _tinySize = 5.0;
 const double _smallSize = 10.0;
 const double _mediumSize = 25.0;
 const double _largeSize = 50.0;
-const double _massiveSize = 120.0;
+const double _massiveSize = 100.0;
 
 const Widget horizontalSpaceTiny = SizedBox(width: _tinySize);
 const Widget horizontalSpaceSmall = SizedBox(width: _smallSize);
